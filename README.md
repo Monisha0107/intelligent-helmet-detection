@@ -132,9 +132,10 @@ python main.py
 
 
 This will initiate the application, and it may take a few moments to activate the webcam and begin detection.
-## Authors
+<!--- ## Authors
 
 - [ADITYA J P](https://www.github.com/adityajai25)
 - [PREMSAIKUMAR S](https://www.github.com/prem1507)
 - [RISHI T](https://www.github.com/rishithayanidhi)
+--->
 
